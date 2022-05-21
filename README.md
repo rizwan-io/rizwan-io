@@ -1,10 +1,10 @@
-- 👋 Hi, I’m @rizdev99
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
-
-<!---
-rizdev99/rizdev99 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+Hey 👋   
+I am Rizwan, a SWE based out of Mumbai.   
+  
+Currently working to improve card payments at WorldPay from FIS.  
+  
+Learnings at the moment -
++ Java
++ Spring Boot
++ Databases & Networking
++ Software Architecture
