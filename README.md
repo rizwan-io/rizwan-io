@@ -12,6 +12,9 @@ Java developer with over 2 years of experience in developing and optimizing back
 ![](https://github-readme-streak-stats.herokuapp.com/?user=rizwan-io&theme=radical&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=rizwan-io&theme=radical&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
+# Current Stats:
+<a href="https://wakatime.com"><img src="https://wakatime.com/share/@fb3e07d3-de69-4d8a-bb9b-fee667d0d4b6/d10072d9-9333-4072-b5f0-c9398be0019d.png" /></a>
+
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
