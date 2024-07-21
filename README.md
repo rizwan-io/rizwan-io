@@ -1,5 +1,5 @@
 # 💫 About Me:
-Java developer with over 2 years of experience in developing and optimizing backend services<br>using Spring and PostgreSQL. Motivated to actively participate in a team environment, where<br>I can leverage my skills to solve complex problems and drive innovative thinking.
+Backend Engineer
 
 
 ## 🌐 Socials:
